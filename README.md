@@ -29,3 +29,4 @@ configuration relevant for your application.
 Manager de habitos
 >>>>>>> 1cc1c70b5c129762be6bb668d52570065684f376
 # HealtLife
+# HealtLife app para manager de app
